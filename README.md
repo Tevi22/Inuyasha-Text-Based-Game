@@ -11,7 +11,7 @@ Here is a map of the demon world location and items to help navigate your advent
 
 !Map of the Demon World
 
-Replace `map-url` with the actual URL of your game map image.
+https://github.com/Tevi22/Inuyasha-Text-Based-Game/blob/main/assets/image/Inuyasha%20Map.png
 
 #### How to Play
 - Navigate through the different locations to collect the Shikon jewel pieces.
